@@ -1,3 +1,7 @@
+<?php
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +17,7 @@ Your private key
 3a06461712c641ffa0e996c5c2086559377aa4d3
 
 <body>
+<h1>HOME</h1>
     <div class="movie">ejemplo</div>
     <script type="text/javascript">
         const url = "developer.marvel.com"
